@@ -25,4 +25,4 @@ async function insertData(){
     }
 }
 
-insertData()
+insertData();
